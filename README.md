@@ -46,4 +46,4 @@ The **Bank Churn Analysis Dashboard** is an interactive medium to visualize crit
 - **Geographical Trends:** Evaluating churn and customer distribution by country to identify market-specific challenges 🌍.
 - **Product Insights:** Analyzing customer distribution by product to assess performance and preferences.
 
-Dashboard Preview: https://github.com/rnimje17/Bank-Churn-Analysis/blob/main/Snapshot%20of%20Bank%20Churn%20Analysis%20Dashboard.png
+Dashboard Preview: (https://github.com/rnimje17/Bank-Churn-Analysis/blob/main/Snapshot%20of%20Bank%20Churn%20Analysis%20Dashboard.png)
